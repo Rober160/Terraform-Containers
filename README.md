@@ -1,8 +1,15 @@
 # 📦 Terraform-Containers
 
-**Proyectos prácticos utilizando Terraform con contenedores Docker y Kubernetes**
+**Proyectos prácticos con Terraform orientados al uso de contenedores (Docker y Kubernetes)**  
+Este repositorio contiene ideas y configuraciones para desplegar entornos reales usando **Terraform** junto con tecnologías de contenedores, permitiendo simular escenarios productivos tanto en entornos locales como en la nube.
 
-Este repositorio recopila diversas prácticas e ideas de proyectos que combinan el uso de **Terraform** para la provisión de infraestructura con tecnologías de **contenedorización** como **Docker** y **Kubernetes**. El objetivo es simular entornos reales, automatizar despliegues y adquirir experiencia con herramientas modernas de DevOps e infraestructura como código (IaC).
+---
+
+## 🧪 Descripción
+
+El objetivo de este repositorio es experimentar con la infraestructura como código mediante **Terraform**, automatizando el despliegue de entornos basados en **contenedores**, ya sea en local (usando Docker) o en orquestadores como **Kubernetes**.  
+
+Se exploran diferentes tipos de proyectos útiles para prácticas, pruebas y formación DevOps.
 
 ---
 
